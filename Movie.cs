@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
+/**
+Author: Mitchell Aninyang
+*/
+
 namespace movie_tracker_wf2
 {
     public class Movie
